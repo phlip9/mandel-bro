@@ -2,7 +2,7 @@
     <img src="http://i.imgur.com/X7upIyt.png" />
 </h1>
 
-### Mandel-bro ###
+# Mandel-bro #
 
 This was my (winning) entry to the UC Berkeley Fall 2014 CS 61A Scheme
 Recursive Art Contest. It uses a custom built scheme interpreter written in
